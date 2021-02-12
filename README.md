@@ -3,7 +3,6 @@
 
 ## EXTENSIONS
 
-![alt text](./1-ext.png)
 
 #### _Auto Rename Tag_
 
@@ -63,4 +62,3 @@ Syntax highlighting for styled-components
 
 Support for dotenv file syntax
 
-![alt text](./3-dotenv-ext.png)
