@@ -2,7 +2,7 @@
 # VS CODE SETUP
 ## EXTENSIONS
 
-        #########################################################   plese visit more read me folder       #############################################################
+       ###########   plese visit more read me folder       ##############
 
 #### _Auto Rename Tag_
 
